@@ -2,7 +2,7 @@
 
 **Every update, accounted for.** Windows updates you review, approve and can trace. By **Prosper Technologies**.
 
-[Website](https://prospertechnology.github.io/patchpilot/) · [Downloads](https://github.com/ProsperTechnology/patchpilot/releases) · [Full access — $1.99/month](https://prospertechnology.gumroad.com/l/patchpilot) · [Support](mailto:Keith.Hudson@gmx.com)
+[Website](https://prospertechnology.github.io/patchpilot/) · [Download v0.9.1](https://github.com/ProsperTechnology/patchpilot/releases/tag/v0.9.1) · [Full access — $1.99/month](https://prospertechnology.gumroad.com/l/patchpilot) · [Support](mailto:Keith.Hudson@gmx.com)
 
 ![PatchPilot command center](docs/assets/preview-overview.png)
 
