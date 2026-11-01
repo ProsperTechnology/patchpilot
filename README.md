@@ -2,7 +2,7 @@
 
 **Every update, accounted for.** Windows updates you review, approve and can trace. By **Prosper Technologies**.
 
-[Website](https://prospertechnology.github.io/patchpilot/) · [Download v0.9.2](https://github.com/ProsperTechnology/patchpilot/releases/tag/v0.9.2) · [Full access — $1.99/month](https://prospertechnology.gumroad.com/l/patchpilot) · [Support](mailto:Keith.Hudson@gmx.com)
+[Website](https://prospertechnology.github.io/patchpilot/) · [Download v0.9.3](https://github.com/ProsperTechnology/patchpilot/releases/tag/v0.9.3) · [Full access — $1.99/month](https://prospertechnology.gumroad.com/l/patchpilot) · [Support](mailto:Keith.Hudson@gmx.com)
 
 ![PatchPilot command center](docs/assets/preview-overview.png)
 
@@ -33,6 +33,10 @@ Inventory, activity and reports stay local. Activation sends a license key, one-
 Support: **Keith.Hudson@gmx.com**. Include the app/Windows versions and a short description. Never post license keys, personal paths or account details publicly.
 
 Application source remains private. This repository contains public documentation, screenshots and customer release assets.
+
+## New in v0.9.3
+
+Fixed a Windows update review-window bug that could leave PatchPilot disabled after updates finished. Choosing Done or Close now ends the worker and releases the main window. Active Windows updates remain protected from interruption. Install over the existing version to keep your preferences, history and activation.
 
 ## New in v0.9.2
 
